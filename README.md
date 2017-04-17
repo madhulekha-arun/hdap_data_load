@@ -4,7 +4,7 @@ Scripts to load sensor data into hdfs
 * Dropbox location :
   https://www.dropbox.com/home/HDAP%20Sensors%20Box
 
-* Used this plugin on chrome to get cookie data (https://chrome.google.com/webstore/detail/cookietxt-export/lopabhfecdfhgogdbojmaicoicjekelh)
+* Use this plugin on chrome to get cookie data (https://chrome.google.com/webstore/detail/cookietxt-export/lopabhfecdfhgogdbojmaicoicjekelh)
 
 * Save it as cookies.txt
 
